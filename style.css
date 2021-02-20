@@ -1,5 +1,5 @@
 html {
-    scroll-behavior: smooth;
+    scroll-behavior:smooth;
 }
 body {
     background-color: rgb(37, 70, 175)
@@ -77,4 +77,35 @@ a {
     z-index: 100;
     color: whitesmoke;
     margin-left: 1%;
+}
+.self-picture {
+    position: absolute;
+    left: 40%;
+    height: 400px
+    ;
+
+}
+
+.parent {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-1 {
+    background-color: lightcoral;
+    width: 400px;
+    height: 400px;
+}
+
+.img-2 {
+    background-color: blueviolet; 
+    width:  200px;
+    height: 300px;
+}
+
+
+.img-3 {
+    background-color: yellow; 
+    width: 150x;
+    height: 100px;
 }

@@ -1,1 +1,10 @@
-# homework2 
+# Portfolio-Assignment
+The given assignment for class this week was to build a functional portfolio in which we have a navbar, content to describe the portfolio, and certain images. When starting my portfolio I began by creating an index.html and style.css to begin my work. I started off by creating my navbar and making sure the content within the navigation is inside of a row and seperate columns. I continued to apply the button tag to each of the contents within the nav bar. After that I added in my background image, in which I have my name, and then a picture of myself. After that I started to create the main content of my portfolio in which I added information to each of the sections, such as "home, about, contact, and work". The final part of index.html contains the footer.
+
+Moving onto the CSS for this assignment. I made the CSS from scratch while making sure it syncs with the index.html. Within the CSS I designed each section to have the same margin-top, padding-bottom, background-color, color, and font-size. The sections I am talking about are the 4 main categories within my portfolio. In the CSS I adjusted many more features for the text to be in the color of white, follow a certain font, and alignment. The CSS was the least challenging part of this assignment for me. I believe the index.html to be challenging at certain points, especially where there were errrors between the css and index.
+
+After completing the core part of the assignment, two of my friends reviewed my work and believed that I met the requiremenents being asked for this portfolio assignment. Without tthe help of my friends, peers, and TA'S I dont think I could have made it through completing this assignment. Everyone helped me understand the concept and what exactly is being expected out of this assignment.
+
+Link to the website is going to be:
+
+![portfolio demo]()
