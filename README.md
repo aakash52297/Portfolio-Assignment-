@@ -5,6 +5,6 @@ Moving onto the CSS for this assignment. I made the CSS from scratch while makin
 
 After completing the core part of the assignment, two of my friends reviewed my work and believed that I met the requiremenents being asked for this portfolio assignment. Without tthe help of my friends, peers, and TA'S I dont think I could have made it through completing this assignment. Everyone helped me understand the concept and what exactly is being expected out of this assignment.
 
-Link to the website is going to be:
+Link to the website is going to be: https://aakash52297.github.io/Portfolio-Assignment-/
 
-![portfolio demo]()
+![portfolio demo](images/screencapture-aakash52297-github-io-Portfolio-Assignment-2021-02-20-18_42_06.png)
